@@ -11,11 +11,13 @@ The Purpose of this analysis is to uncover potential trends from the successes a
 ## **Analysis and Challenges**
 
 ### **Analysis of Outcomes Based on Launch Date**
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/106631875/174403492-94165f5d-42ba-40c8-970a-b9486cfe8a13.png)
 
 This chart was created by referencing a pivot table that compiled and organized crowdfunding projects for plays by the months launched and the end results of the various campaigns. The Theater Outcomes Based on Launch Date chart shows the relationship between the months that the crowdfunding projects were launched and their successes, failures, and cancellations. 
 
 ### **Analysis of Outcomes Based on Goals**
-![Outcomes Based on Launch Date]( https://github.com/Panther1976/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/106631875/174403445-fd73303a-810b-4dc1-8f44-989c2c4622d8.png)
+
 This chart was created by referencing a pivot table that compiled and organized crowdfunding projects for plays by the campaign goal and the end results of the various campaigns. The Outcomes Based on Goals chart shows the relationship between the goal of the project and the percentage or likelihood of success.  The chart shows that the lower the goal seemed to indicate a stronger likelihood that the goal would be met and the more ambitious or higher the goal the less likely the goal would be met. 
 
 ### **Challenges and Difficulties Encountered**
