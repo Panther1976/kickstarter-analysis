@@ -6,7 +6,7 @@ To analyze the successes and failures of several thousand crowdfunding projects 
 
 ### **Purpose**
 
-The Purpose of this analysis is to uncover potential trends from the successes and failures of several thousand crowdfunding projects. It is the hope that this will provide insights that will aid Louise in her own crowdfunding project to raise money for her play. Specifically looking at how the projects launch dates and goals impacted their successes and failures. 
+The Purpose of this analysis is to uncover potential trends from the successes and failures of several thousand crowdfunding projects. It is the hope that this will provide insights that will aid Louise in her own crowdfunding project to raise money for her play. Specifically looking at how the projects' launch dates and goals impacted their successes and failures. 
 
 ## **Analysis and Challenges**
 
